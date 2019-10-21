@@ -4,11 +4,11 @@
 
 ### Modifies files
 
-###### src/templates/_integrations/sproutforms/captchas/GoogleRecaptcha/settings.twig, lines 3-23
+###### src/templates/_integrations/sproutforms/captchas/GoogleRecaptcha/settings.twig
 - Changes field type from `textField` to `autosuggestField`
 - Adds `suggestEnvVars: true` to field config
 
-###### src/integrations/sproutforms/captchas/GoogleRecaptcha.php, lines 119-120
+###### src/integrations/sproutforms/captchas/GoogleRecaptcha.php
 - Wraps `$this->siteKey` and `$this->secretKey` values in the `Craft::parseEnv()` function
 
 ### Get upsteam updates
