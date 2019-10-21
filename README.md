@@ -1,6 +1,6 @@
 # Google reCAPTCHA for Sprout Forms
 
-> This is a forked version that's been modified to support environment variables for Google Site Key and Secret Key.
+> This is a forked version that's been modified to support environment variables for Google reCAPTCHA's Site Key and Secret Key.
 
 ### Modifies files
 
