@@ -1,5 +1,7 @@
 # Google reCAPTCHA for Sprout Forms
 
+> This is a fork updated so settings support environment variables
+
 Add Google reCAPTCHA spam prevention to Sprout Forms 
 
 - [Documentation](https://sprout.barrelstrengthdesign.com/docs/forms/)
